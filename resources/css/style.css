@@ -1,5 +1,6 @@
 html{
 	text-align: center;
+	font-family: helvetica;
 }
 
 h1{
@@ -9,17 +10,13 @@ h1{
 
 .nav{
 	color: white;
+	font-weight: bold;
 }
 
-.background{
+.header{
 	color:white;
-	font-family: helvetica;
 	font-size: 18px;
 	background-image: url("../images/building.png");
-}
-
-.supporting{
-	font-family: helvetica;
 }
 
 #process{
@@ -27,16 +24,23 @@ h1{
 	font-size: 32px;
 }
 
-.supporting h3{
+h3{
 	font-weight: bold;
 	font-size: 23px;
 }
 
-.supporting p{
+p{
 	font-size: 14px;
 	font-weight: normal;
 }
 
 #center{
 	font-size: 23px;
+}
+
+.footer{
+	color: white;
+	font-size: 11px;
+	text-align: left;
+	background-color: dimgray;
 }
