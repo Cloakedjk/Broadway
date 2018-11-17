@@ -7,9 +7,32 @@ h1{
 	font-weight: bold;
 }
 
-.top{
+.background{
 	color:white;
 	font-family: helvetica;
 	font-size: 18px;
 	background-image: url("../images/building.png");
+}
+
+.supporting{
+	font-family: helvetica;
+}
+
+#process{
+	font-weight: bold;
+	font-size: 32px;
+}
+
+.supporting h3{
+	font-weight: bold;
+	font-size: 23px;
+}
+
+.supporting p{
+	font-size: 14px;
+	font-weight: normal;
+}
+
+#center{
+	font-size: 23px;
 }
